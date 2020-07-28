@@ -1,6 +1,6 @@
 permalink: /:year:month:day/:title
 url: https://record.auntie.top/
-baseurl: /project
+baseurl: /
 
 # variables
 name: Your Site Name
